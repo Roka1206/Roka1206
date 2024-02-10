@@ -1,10 +1,15 @@
+<a  target="_blank" style="text-decoration:none;">
+    <img src="src/banner.jpg" width="full">
+</a>
 <h1 align="center">Hi 👋, I'm Ronald Fonseca</h1>
 <h3 align="center">Cuban Software Engineer, in love with software creation and focused on the frontend</h3>
 
-- 🌱 I’m currently learning **Fluter**  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
+- 🌱 I’m currently learning **Angular**  <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
 
-- 👨‍💻 All of my projects are available at [cvc-portfalio.com](cvc-portfalio.com)
-
+- 📝 I will learn soon I’m currently learning **Fluter**  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
+</br>
+- 👨‍💻 All of my projects are available at [cv-portfalio.com](cv-portfalio.com)
+</br>
 - 📫 How to reach me **rfonsecah92@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
