@@ -8,8 +8,10 @@
 
 - 📝 I will learn soon I’m currently learning **Fluter**  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
 </br>
+
 - 👨‍💻 All of my projects are available at [cv-portfalio.com](cv-portfalio.com)
 </br>
+
 - 📫 How to reach me **rfonsecah92@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
