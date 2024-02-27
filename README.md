@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Angular**  <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
 
-- 📝 I will learn soon I’m currently learning **Ionic**  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
+- 📝 I will learn soon I’m currently learning **Ionic**  <a href="https://ionic.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ionicframework/ionicframework-ar21.svg" alt="ionic" width="40" height="40"/> </a>
 </br>
 
 - 👨‍💻 All of my projects are available at [cv-portfalio.com](cv-portfalio.com)
