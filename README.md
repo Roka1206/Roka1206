@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Ronald Fonseca</h1>
 <h3 align="center">Cuban Software Engineer, in love with software creation and focused on the frontend</h3>
 
-- 🌱 I’m currently learning **Angular**  <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
+- 🌱 I’m currently learning **Laravel**  <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg" alt="laravel" width="40" height="40"/> </a>
 
 - 📝 I will learn soon I’m currently learning **Ionic**  <a href="https://ionic.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ionicframework/ionicframework-ar21.svg" alt="ionic" width="40" height="40"/> </a>
 </br>
